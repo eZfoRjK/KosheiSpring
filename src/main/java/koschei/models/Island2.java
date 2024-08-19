@@ -3,7 +3,6 @@ package koschei.models;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class Island2 {
-
     private final Wood3 wood;
 
     @Autowired
